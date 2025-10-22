@@ -1,1 +1,1 @@
-The majority of the technologies required for data analysis, such as R, PythonSQL, Tableau, Power Bi, etc., I am currently learning how to use. However, I significantly improved in my use of R after the Google Data Analysis Certification Course on Coursera, therefore I completed these projects to show that.
+
